@@ -1,2 +1,2 @@
-# SDK Test
-This file was created by the Workato SDK connector test suite.
+# SDK Test Updated
+This file was updated by the Workato SDK connector test suite.
