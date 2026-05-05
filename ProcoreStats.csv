@@ -1,0 +1,20 @@
+METRIC_TYPE,METRIC_NAME,COUNT_VALUE,DETAILS,SORT_ORDER
+=== SUMMARY STATISTICS ===,,,,0
+Data Centers,DC Breakdown,,"AU: 17 installs, 6 connections, 8 customers | EU: 9 installs, 0 connections, 5 customers | ILC1: 1 installs, 0 connections, 1 customers | LOR_EUC1: 1 installs, 0 connections, 1 customers | SG: 1 installs, 0 connections, 1 customers | US: 229 installs, 95 connections, 82 customers | Unknown: 30 installs, 15 connections, 0 customers",1
+Installs,Total Installs (All),285,,2
+Installs,Installs with Known Workspaces,228,,3
+Installs,Installs without Workspace (orphaned),59,,4
+Connections,Total Connections (Active + Inactive),395,,5
+Connections,Active Connections,151,,6
+Connections,Inactive Connections,244,,7
+Connections,Active Connections in Valid Workspaces,64,,8
+Connections,Connections WITH Recipes,44,,9
+Connections,Connections WITHOUT Recipes,20,,10
+Customers,Total Customers (Active + Inactive Connections),93,,11
+Customers,Customers with Active Connections,37,"AES Clean Energy Services LLC, Aldridge Electric, Inc., Autodesk - Embedded, BW: Workplace Experts, BZI Steel, Balfour Beatty US, Core Scientific, Corfix - Embedded, Cumming Corporation, Deltek - Embedded, EM. Duggan, Eide Bailly - Partner, Felix - Embedded, GoCanvas - Embedded, Harvey | Harvey-Cleary Builders, High Associates, Industrious, Intercede Solutions - Partner, JP Cullen, JPI Companies, Joeris General Contractors, LLC, Lanter Technologies - Partner, MetlifeCare, Netomi - Embedded, Otter.ai - Embedded, Procore Technologies, Procore Technologies - Embedded, Pueblo Mechanical & Controls, QuickBase, Reidy Contracting Group, Stack Infrastructure, StreamLinx - Embedded, Structure Tone Building Group, Technology Services Group LLC, TrebleHook - Embedded, Trunk Tools - Embedded, iSteer Inc (AMER) - Partner",12
+Customers,Paying Customers,28,"AES Clean Energy Services LLC, Aldridge Electric, Inc., Autodesk - Embedded, BW: Workplace Experts, Balfour Beatty US, Core Scientific, Corfix - Embedded, Cumming Corporation, Deltek - Embedded, EM. Duggan, Felix - Embedded, GoCanvas - Embedded, Industrious, JPI Companies, Joeris General Contractors, LLC, MetlifeCare, Otter.ai - Embedded, Procore Technologies, Procore Technologies - Embedded, Pueblo Mechanical & Controls, QuickBase, Reidy Contracting Group, Stack Infrastructure, StreamLinx - Embedded, Structure Tone Building Group, Technology Services Group LLC, TrebleHook - Embedded, Trunk Tools - Embedded",13
+Customers,Total ARR (USD),$5275870,,14
+Workspaces,Total Active Workspaces,48,,15
+Recipes,Total Recipes (All),726,,16
+Recipes,Active RUNNING Recipes,274,,17
+Recipes,Stopped/Inactive Recipes,452,,18
