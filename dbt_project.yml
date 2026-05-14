@@ -1,0 +1,11 @@
+name: 'dbt_athena_project'
+version: '1.0'
+config-version: 2
+
+profile: 'default'
+
+model-paths: ["models"]
+
+models:
+  dbt_athena_project:
+    +materialized: view
